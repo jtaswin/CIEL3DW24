@@ -1,0 +1,28 @@
+<div class="row contact-details">
+  <div class="col-md-6 col-sm-12">
+    <div class="card">
+      <div class="image m-3">
+        <img src="{{contact.avatarUrl}}" />
+      </div>
+      <div class="card-title">
+        <button type="button" class="btn btn-outline-primary">Call</button>
+        <button type="button" class="btn btn-outline-primary">Send message</button>
+        <button type="button" class="btn btn-outline-primary">Send email</button>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-sm-12">
+    <h1 class="element">{{contact.getFullname()}}</h1>
+    <div class="info">Age : </div>
+    <div class="data">{{contact.age}}</div>
+    <div class="info">Gender : </div>
+    <div class="data">{{contact.gender}}</div>
+    <div class="info">Email : </div>
+    <div class="data">{{contact.email}}</div>
+    <div class="info">Phone : </div>
+    <div class="data">{{contact.phone}}</div>
+    <div class="info">Address : </div>
+    <div class="data">{{contact.address}}</div>
+  </div>
+</div>
+<div class="pc">Interface version PC</div>

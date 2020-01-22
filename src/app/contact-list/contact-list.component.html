@@ -1,0 +1,17 @@
+<div class="contact-list container row">
+  <div class="contact-list_item col-12 col-lg-6 col-xl-4" *ngFor="let contact of contacts">
+    <div class="row">
+      <div class="col-3 image">
+        <img src="{{contact.avatarUrl}}" />
+      </div>
+      <div class="col-6 info">
+        <h3 class="name">{{contact.getFullname()}}</h3>
+        <p class="email">{{contact.email}}</p>
+      </div>
+      <div class="col-3">
+        <a class="btn btn-primary" routerLink="/contact/5a33e7a775119ab1e3c2f0a3/details">More</a>
+      </div>
+    </div>
+    <hr>
+  </div>
+</div>

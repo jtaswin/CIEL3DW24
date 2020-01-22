@@ -1,0 +1,222 @@
+export const DATA = [
+  {
+    "id": "5a33e7a775119ab1e3c2f0a3",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 26,
+    "lastName": "Carson",
+    "firstName": "Maldonado",
+    "gender": "male",
+    "email": "maldonadocarson@fangold.com",
+    "phone": "+1 (941) 433-2255",
+    "address": "524 Desmond Court, Rose, Federated States Of Micronesia, 8749"
+  },
+  {
+    "id": "5a33e7a7d0e83afb88d8da7d",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 29,
+    "lastName": "Patrick",
+    "firstName": "Bauer",
+    "gender": "male",
+    "email": "bauerpatrick@fangold.com",
+    "phone": "+1 (910) 400-3220",
+    "address": "798 Portal Street, Esmont, Vermont, 3209"
+  },
+  {
+    "id": "5a33e7a7a3dda7d59117c3ee",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 30,
+    "lastName": "Holman",
+    "firstName": "Addie",
+    "gender": "female",
+    "email": "addieholman@fangold.com",
+    "phone": "+1 (822) 506-2174",
+    "address": "970 Conselyea Street, Siglerville, New Mexico, 3037"
+  },
+  {
+    "id": "5a33e7a7f93b7022e74e8a20",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 20,
+    "lastName": "Hernandez",
+    "firstName": "Brittany",
+    "gender": "female",
+    "email": "brittanyhernandez@fangold.com",
+    "phone": "+1 (987) 433-2014",
+    "address": "535 Bushwick Court, Movico, Tennessee, 9699"
+  },
+  {
+    "id": "5a33e7a73a1571916d4db474",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 26,
+    "lastName": "Grimes",
+    "firstName": "Myers",
+    "gender": "male",
+    "email": "myersgrimes@fangold.com",
+    "phone": "+1 (905) 543-2236",
+    "address": "567 Tompkins Avenue, Genoa, Alabama, 8673"
+  },
+  {
+    "id": "5a33e7a772ba5928d5371466",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 22,
+    "lastName": "Gallagher",
+    "firstName": "Bobbie",
+    "gender": "female",
+    "email": "bobbiegallagher@fangold.com",
+    "phone": "+1 (805) 478-2160",
+    "address": "502 Troy Avenue, Linganore, Connecticut, 4242"
+  },
+  {
+    "id": "5a33e7a78276370cc48947f1",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 32,
+    "lastName": "Ashley",
+    "firstName": "Dolores",
+    "gender": "female",
+    "email": "doloresashley@fangold.com",
+    "phone": "+1 (856) 423-2444",
+    "address": "534 Ellery Street, Strong, Virginia, 5971"
+  },
+  {
+    "id": "5a33e7a716039cef7b1bc303",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 36,
+    "lastName": "Hoffman",
+    "firstName": "Barbara",
+    "gender": "female",
+    "email": "barbarahoffman@fangold.com",
+    "phone": "+1 (887) 552-3612",
+    "address": "975 Dooley Street, Boykin, Hawaii, 3693"
+  },
+  {
+    "id": "5a33e7a769f102ebfa219235",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 27,
+    "lastName": "Franco",
+    "firstName": "Trisha",
+    "gender": "female",
+    "email": "trishafranco@fangold.com",
+    "phone": "+1 (827) 591-2275",
+    "address": "716 Victor Road, Gulf, North Carolina, 6788"
+  },
+  {
+    "id": "5a33e7a7605b333d4d2aa55a",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 25,
+    "lastName": "Morrison",
+    "firstName": "Huber",
+    "gender": "male",
+    "email": "hubermorrison@fangold.com",
+    "phone": "+1 (801) 433-2050",
+    "address": "664 Gardner Avenue, Whitehaven, Kentucky, 7004"
+  },
+  {
+    "id": "5a33e7a7cbfdcbeb49592410",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 34,
+    "lastName": "Eaton",
+    "firstName": "Clark",
+    "gender": "male",
+    "email": "clarkeaton@fangold.com",
+    "phone": "+1 (983) 447-2638",
+    "address": "559 Provost Street, Kimmell, Rhode Island, 3036"
+  },
+  {
+    "id": "5a33e7a778c3dcf3fa119c94",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 30,
+    "lastName": "Blake",
+    "firstName": "Moran",
+    "gender": "male",
+    "email": "moranblake@fangold.com",
+    "phone": "+1 (871) 418-3104",
+    "address": "575 Strong Place, Urbana, Delaware, 1383"
+  },
+  {
+    "id": "5a33e7a77bed05a62dec83fd",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 25,
+    "lastName": "Ellis",
+    "firstName": "Rice",
+    "gender": "male",
+    "email": "riceellis@fangold.com",
+    "phone": "+1 (991) 520-2535",
+    "address": "929 Navy Street, Bellfountain, New Hampshire, 2045"
+  },
+  {
+    "id": "5a33e7a742a109c027f4f543",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 33,
+    "lastName": "Pitts",
+    "firstName": "Norman",
+    "gender": "male",
+    "email": "normanpitts@fangold.com",
+    "phone": "+1 (932) 440-2501",
+    "address": "646 Carlton Avenue, Lisco, New Jersey, 1595"
+  },
+  {
+    "id": "5a33e7a7c912c48fdae99672",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 27,
+    "lastName": "Koch",
+    "firstName": "Margret",
+    "gender": "female",
+    "email": "margretkoch@fangold.com",
+    "phone": "+1 (889) 562-2786",
+    "address": "111 Krier Place, Westphalia, California, 2985"
+  },
+  {
+    "id": "5a33e7a7e0f5423ee4afb2a2",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 24,
+    "lastName": "Reeves",
+    "firstName": "Cantrell",
+    "gender": "male",
+    "email": "cantrellreeves@fangold.com",
+    "phone": "+1 (993) 600-2002",
+    "address": "638 Evans Street, Naomi, Puerto Rico, 2148"
+  },
+  {
+    "id": "5a33e7a76dce218e7295d6f3",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 39,
+    "lastName": "Macdonald",
+    "firstName": "Kaye",
+    "gender": "female",
+    "email": "kayemacdonald@fangold.com",
+    "phone": "+1 (960) 436-3266",
+    "address": "601 Prospect Place, Yardville, Maryland, 8028"
+  },
+  {
+    "id": "5a33e7a7f6e7fac438934b02",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 36,
+    "lastName": "Woodard",
+    "firstName": "Valerie",
+    "gender": "female",
+    "email": "valeriewoodard@fangold.com",
+    "phone": "+1 (964) 451-3330",
+    "address": "492 Belvidere Street, Sunnyside, Wisconsin, 9853"
+  },
+  {
+    "id": "5a33e7a7791dcc36b8f85788",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 36,
+    "lastName": "Hess",
+    "firstName": "Latisha",
+    "gender": "female",
+    "email": "latishahess@fangold.com",
+    "phone": "+1 (889) 470-2992",
+    "address": "154 Cypress Court, Cresaptown, Missouri, 782"
+  },
+  {
+    "id": "5a33e7a7a8ebb24957adf14c",
+    "avatarUrl": "http://placehold.it/512x512",
+    "age": 37,
+    "lastName": "Castro",
+    "firstName": "Adrienne",
+    "gender": "female",
+    "email": "adriennecastro@fangold.com",
+    "phone": "+1 (972) 406-3902",
+    "address": "766 Jefferson Avenue, Veguita, Ohio, 142"
+  }
+];

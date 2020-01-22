@@ -1,0 +1,35 @@
+img {
+    width : 100%;
+    margin: auto;
+}
+
+.pc {
+    justify-content: center;
+    color          : gray;
+}
+
+.info {
+    width : 50%;
+    color : gray;
+    margin: 10px 0;
+}
+
+.data {
+    width : 50%;
+    margin: 10px 0;
+}
+
+
+.card {
+    background-color: rgb(240, 240, 240);
+}
+
+.card-title {
+    align-items    : center;
+    display        : flex;
+    justify-content: center;
+
+    button {
+        margin: 0 2px;
+    }
+}
